@@ -1,0 +1,10 @@
+title = ""
+
+[disk]
+diskpath = "/"
+max_percentage = 70
+
+[telegram]
+token = ""
+baseUrl = "https://api.telegram.org/bot"
+groupId = ""
